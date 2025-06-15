@@ -72,3 +72,8 @@
 [15Jun2025 22:29:18.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JPanesito has made the advancement [Ice Bucket Challenge]
 [15Jun2025 22:31:52.173] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JPanesito lost connection: Disconnected
 [15Jun2025 22:31:52.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JPanesito left the game
+[15Jun2025 22:41:29.192] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JPanesito is 2b4d58cc-d7c7-4251-8f24-0d446a6e6259
+[15Jun2025 22:41:30.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JPanesito[/127.180.52.202:55459] logged in with entity id 4454 at (-291.2846463813412, 56.0, 1410.6713915748596)
+[15Jun2025 22:41:30.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JPanesito joined the game
+[15Jun2025 22:42:24.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JPanesito: Set the weather to clear]
+[15Jun2025 22:42:56.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JPanesito has made the advancement [Stone Age]
